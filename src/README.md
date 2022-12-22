@@ -9,12 +9,12 @@ tagline: Thanks for visiting this page! Enjoy my world of Development, Technolog
 heroFullScreen: true
 projects:
   - icon: project
-    name: project name
-    desc: project detailed description
+    name: projects
+    desc: A curated list of the most awesome projects I was involved
     link: https://your.project.link
 
   - icon: link
-    name: link name
+    name: Tools, Websites & other recommandations
     desc: link detailed description
     link: https://link.address
 
@@ -38,7 +38,7 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+footer: <a href="https://www.linkedin.com/in/markus-wagner-ab1348160/"> My LinkedIn </a>
 ---
 
 This is a blog home page demo.

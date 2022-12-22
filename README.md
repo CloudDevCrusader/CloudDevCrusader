@@ -41,4 +41,4 @@ So it will be a combination of following tools:
 
 ### Outro
 
-I hope you like my new profile and description, any questons or improvement proposals? Please write me at [blog@markuswagner.dev](mailto:blog@markuswagner.dev) Thank you very muchg!!
+I hope you like my new profile and description, any questons or improvement proposals? Please write me at [blog@markuswagner.dev](mailto:blog@markuswagner.dev) Thank you very much!!
