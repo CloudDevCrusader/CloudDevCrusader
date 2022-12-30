@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://markuswagner.dev",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "Markus Wagner",
+    url: "https://markuswagner.dev",
   },
 
   iconAssets: "iconfont",
@@ -73,7 +73,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "Full-Stack Cloud Magician ;)",
         intro: "/intro.html",
       },
 
