@@ -81,7 +81,7 @@ I'm **Markus Wagner**, a passionate **Full-Stack Cloud Developer** from Stuttgar
 
 - 📱 **Architecture**: Hybrid static site with Notion CMS integration
 - 🚀 **CI/CD**: Automated deployment pipeline via GitHub Actions
-- 🌍 **Hosting**: GitHub Pages with custom domain (markuswagner.dev)
+- 🌍 **Hosting**: GitHub Pages with custom domain (markuswagner.cloud)
 - 🔧 **Features**: Multilingual support (EN/CN), responsive design, SEO optimized
 
 #### 📊 System Performance Monitoring
@@ -268,7 +268,7 @@ I also create electronic music under the alias **"Escalation Expert"**:
 
 ### 📧 Get In Touch
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-markuswagner.dev-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://markuswagner.cloud)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-markuswagner.cloud-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://markuswagner.cloud)
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-jobsearch%40markuswagner.cloud-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobsearch@markuswagner.cloud?subject=I%20might%20have%20an%20interesting%20position%20for%20you%20%3A&body=I%20am%20very%20pleased%20to%20hear%20from%20you!%20Don't%20hesitate%20to%20ask%20me%20anything!)
 
