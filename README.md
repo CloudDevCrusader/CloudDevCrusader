@@ -1,156 +1,294 @@
-# Markus Wagner's aka CloudCrusaders Homepage
+<div align="center">
 
-<a href="https://app.daily.dev/CloudCrusader_X"><img src="https://api.daily.dev/devcards/b835fdb47f1d4c9e8abef9ba763cf0d2.png?r=tme" width="400" alt="Markus Wagner's Dev Card"/></a>
+# 🚀 CloudCrusader
+### *Markus Wagner's Digital Portfolio & Tech Hub*
 
-## Introduction
+[![Website](https://img.shields.io/badge/Portfolio-markuswagner.cloud-blue?style=for-the-badge&logo=firefox)](https://markuswagner.cloud)
+[![Email](https://img.shields.io/badge/Contact-contact%40markuswagner.cloud-red?style=for-the-badge&logo=gmail)](mailto:contact@markuswagner.cloud?subject=I%20might%20have%20an%20interesting%20position%20for%20you%20%3A&body=I%20am%20very%20pleased%20to%20hear%20from%20you!%20Don't%20hesitate%20to%20ask%20me%20anything!)
+[![Email2](https://img.shields.io/badge/Alt%20Contact-markuswagner93%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jobsearch@markuswagner.cloud?subject=I%20might%20have%20an%20interesting%20position%20for%20you%20%3A&body=I%20am%20very%20pleased%20to%20hear%20from%20you!%20Don't%20hesitate%20to%20ask%20me%20anything!)
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/certification/)
 
-Hello fellow Devolpment Friends! This my new account, since my old one got really messy, it was already 8 years old. So I decided now to open up this GitHub Account and configure it clean like the [old one "djdiox"](https://github.com/djdiox). So now here we go, nice clean & informative. Enjoy!
+<a href="https://app.daily.dev/CloudCrusader_X">
+  <img src="https://api.daily.dev/devcards/b835fdb47f1d4c9e8abef9ba763cf0d2.png?r=tme" width="300" alt="Markus Wagner's Dev Card"/>
+</a>
 
-### Who am I?
+</div>
 
-I am a 29 year old Full Stack Developer from Stuttgart, Germany. Working now since 10 years in IT and for the last 4,5 years I specialized my self in Cloud Development
+---
 
-> I am currently looking for a new job! Are you interested in getting to know me? Just mail me vial [jobsearch@markuswagner.cloud](mailto:jobsearch@markuswagner.cloud?subject=I%20might%20have%20an%20interesting%20position%20for%20you%20%3A)&body=I%20am%20very%20pleased%20to%20hear%20from%20you!%20Don't%20hesitate%20to%20ask%20me%20anything!)
+## 👨‍💻 About Me
 
+**Hey there, fellow developers!** 🙋‍♂️
 
-Currently I am mostly doing cloud projects with my company, but also working as a freelancer for a various of customer via fiverr usw. I was already certified as a Solutions Architect on AWS and really experienced in Frontend- *and* Backend Development. 
-I work as a consultant, which means I do not only get tasks for coding. The projects begins much earlier: Finding problems or improvements in the business cases from my customer. Once identifed, I decide, what tool stack fits the best and is cost-efficent and easy to use.
-# It'se me, Markus
+I'm **Markus Wagner**, a passionate **Full-Stack Cloud Developer** from Stuttgart, Germany. With **10 years** in IT and **4.5 years** specializing in cloud architecture, I transform business challenges into scalable, cost-effective solutions.
 
-*Guess who's back, with a brandnew repo*
+### 🎯 What I Do
+- 🏗️ **Cloud Architecture**: AWS Solutions Architect certified
+- 💻 **Full-Stack Development**: Frontend to backend, I've got you covered
+- 🔧 **DevOps & Infrastructure**: Building robust, scalable systems
+- 💡 **Technical Consulting**: From problem identification to solution implementation
+- 🚀 **Freelancing**: Helping businesses achieve their digital goals
 
-Heyho, here I will list my current projects, and here you will find a overview about my hardware, current hot 🔥🔥🔥 projects and software you will love!
+### 🔥 Currently
+> **🚨 OPEN TO OPPORTUNITIES!** Looking for exciting new challenges in cloud development and architecture.
+> 
+> **📧 Let's connect:** [jobsearch@markuswagner.cloud](mailto:jobsearch@markuswagner.cloud?subject=I%20might%20have%20an%20interesting%20position%20for%20you%20%3A&body=I%20am%20very%20pleased%20to%20hear%20from%20you!%20Don't%20hesitate%20to%20ask%20me%20anything!)
 
-## Main Projects
-The rework and extension of my awesome page:
+---
 
-- Currently only markdown, but will be soon managed with
-    - Notion
-    - Twos
-    - OpenAI GPT-5 API
-    - Anthropic Claude Code
+## 🎆 Featured Projects
 
-*First Version will be simple github.io page by this repo*
+### 🌐 Personal Portfolio & Blog
+**Tech Stack**: Jekyll, TypeScript, SCSS, GitHub Pages, SQLite
+- 📋 **Portfolio**: Notion-powered content management via [Potion.so](https://potion.so/)
+- 📝 **Blog**: See [Current Project]()
+- 🚀 **Deployment**: Automated CI/CD with GitHub Actions
+- 🌍 **Live Site**: [markuswagner.cloud](https://markuswagner.cloud)
 
-# Hardware + OS Setups ⚡
+**Upcoming Features**:
+- 🤖 AI-powered content generation (GPT-5 API integration)
+- 📅 Enhanced content management with Twos
+- 📊 Advanced analytics and performance monitoring
+- 🌍 Anthropic Claude Code integration for automated documentation
+- 🔄 Advanced CI/CD pipeline with multi-environment deployments
 
-## Home 
+### 🔌 Open Source Plugins
 
-### Desktop PC 🖥️
+#### 📝 Flow Launcher Twos App Plugin
+**Tech Stack**: C#, .NET, Flow Launcher API
 
-#### Current Hardware
+[![GitHub](https://img.shields.io/badge/GitHub-Flow.Launcher.Plugin.TwosApp-black?style=flat-square&logo=github)](https://github.com/CloudDevCrusader/Flow.Launcher.Plugin.TwosApp)
 
-- ASUS B550-M WIFI II 
-- AMD Ryzen 5 5600X 6x4200MHz
-- 32GB/2x16GB DDR-4 RAM 
-- NVIDIA GeForce RTX 3060
-- Kingston NVMe SSD 1TB
+- 🚀 **Purpose**: Seamless integration between Flow Launcher and Twos productivity app
+- ⚡ **Features**: Quick note creation, task management, and search functionality
+- 🎯 **Impact**: Streamlines workflow for Twos users with keyboard-driven productivity
 
-#### OS/Distros
-- **WIN 10/11**
-    - [LastOS](https://www.lastos.org/)
-    - [AtlasOS](https://atlasos.net/)
-    - [ReviOS](https://www.revi.cc/)
-    - [Ankh Technology](https://ankhtech.weebly.com/) 
-        - **Pro Tip: Use [Toolbox](https://ankhtech.weebly.com/ankhtech-toolbox.html) for installing Software in the Beginning **
-        - Or for Restore via WinPE Live Boot [EmergencyOS by Ankh Tech](https://emergencyos.weebly.com/)
-            - Run Linux on Windows with [awesome WSL](https://github.com/sirredbeard/awesome-wsl) or List 2
-- **UNiX**
-    - [MediCat/Ventoy USB KIT](https://medicatusb.com/)
-    - [Garuda Linux Dr460nized Gaming/Mokka](https://garudalinux.org/editions)
-    - [Linux BigLinux](https://github.com/biglinux)
-    - [Manjaro](https://manjaro.org/)
-    - [EndeavourOS](https://endeavouros.com/)
-- **DOCKER**
-    - https://linuxserver.io
-    - https://hotio.dev
-    - https://hub.docker.com
-    - https://distrobox.it [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS)
+#### 📥 Gopeed AllDebrid Extension
+**Tech Stack**: JavaScript, Gopeed Extension API, AllDebrid API
 
-> Looking for the best Linux Distro, which fits perfect for **your** needs? 
-Test your favorite one at [DistroSea](https://distrosea.com/) no hassel for a VM or live disks that needs a lot of GB. Find the best fit on [Distrochooser](https://distrochooser.de/).
+[![GitHub](https://img.shields.io/badge/GitHub-gopeed--extension--alldebrid-black?style=flat-square&logo=github)](https://github.com/CloudDevCrusader/gopeed-extension-alldebrid)
 
-### Laptop 💻
-**Lenovo Thinkpad T450**
+- 🔗 **Purpose**: Extends Gopeed download manager with AllDebrid premium link support
+- ⬇️ **Features**: Direct premium link integration, enhanced download speeds
+- 🌐 **Impact**: Improves download experience for AllDebrid premium users
 
-#### OS/Distros
-- fydeOS / openFyde
-- ChromeOS Flex
-- CachyOS
-- Manjaro
-- Win 11 Lite by Ghost Spectre
+### 🏗️ Infrastructure & DevOps Projects
 
-## DJ/Multimedia
-- Bose Solo 5 Soundbar
-- Pioneer XDJ-RZ + rekordbox v6.8.4
-- Akai APC-25 + Ableton 12
-- Apple AirPods 4
+#### 🤖 VuePress Blog Platform
+**Tech Stack**: VuePress 2, GitHub Actions, Node.js, SCSS
 
-### Raspberry Pi 🍓
+[![Repository](https://img.shields.io/badge/Repository-CloudDevCrusader-black?style=flat-square&logo=github)](https://github.com/CloudDevCrusader/CloudDevCrusader)
 
-Links/Collections:
-- https://github.com/samyk/awesome-raspberrypi
-- https://github.com/thibmaek/awesome-raspberry-pi
-- https://sourceforge.net/directory/raspberry-pi/
+- 📱 **Architecture**: Hybrid static site with Notion CMS integration
+- 🚀 **CI/CD**: Automated deployment pipeline via GitHub Actions
+- 🌍 **Hosting**: GitHub Pages with custom domain (markuswagner.dev)
+- 🔧 **Features**: Multilingual support (EN/CN), responsive design, SEO optimized
 
-Pick 1 of these awesome Raspberry Pi Distro/Mods:
+#### 📊 System Performance Monitoring
+**Tech Stack**: AIDA64, System Analysis, Performance Optimization
 
-#### Desktop
-- Manjaro on ARM
-- [EndeavourOS on ARM](https://endeavouros.com/endeavouros-arm-install/)
-- Raspbian
-- LibreELEC aka. Kodi
-- RetroPie/RetroArch
-- Win 11 on ARM
+- 🖥️ **Hardware Profiling**: Comprehensive system analysis and benchmarking
+- ⚡ **Performance Tuning**: Custom Windows builds (LastOS, AtlasOS, ReviOS)
+- 📈 **Monitoring**: Real-time system metrics and resource optimization
+- 🔧 **Optimization**: Memory, CPU, and storage performance enhancement
 
-#### Self Hosted/Server
+#### 🏠 Self-Hosting & Home Lab Projects
+**Tech Stack**: Docker, OpenMediaVault, umbrelOS, Raspberry Pi
 
-Find a killer list of self hosting tools see: 
-- https://selfhosted.show/
-- https://selfh.st/ 
-- https://www.reddit.com/r/selfhosted/?tl=de&rdt=61087
-- https://github.com/mikeroyal/Self-Hosting-Guide
-- https://awesome-selfhosted.net/ [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- 📦 **Media Server**: Jellyfin, Servarr stack (Sonarr, Radarr, Prowlarr)
+- 📏 **Download Management**: JDownloader2, AllDebrid integration
+- 🖺 **Network Storage**: OpenMediaVault with OMV-Extras
+- 🌐 **Personal Cloud**: umbrelOS deployment for self-hosted services
+- 🎵 **Media Streaming**: Custom DJ/Music production workflow automation
 
-More
-
-- [OpenMediaVault](https://www.openmediavault.org/download.html) + [OMV-Extras](https://wiki.omv-extras.org/doku.php?id=omv7:raspberry_pi_install)
-- [umbrelOS](https://umbrel.com/?country=DE)
-- Docker Images (see Linux Setup)
+---
 
 
-## Mobile
-- Google Pixel 9 Pro 128GB
-    - Currently: Vanilla, aka just like a virigin ;)
-    - Tested + used Sometimes: [crdroid](https://crdroid.net) + lineageOS/îodeOS
-- Lenovo IdeaPad M11 16 GB WiFi Android 15
-- Apple iPad 11 (2025) iPadOS 18 + Logitech K450 
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-Container%20Expert-blue?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes)
+
+### Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-Expert-green?style=flat-square&logo=vue.js)
+![React](https://img.shields.io/badge/React-Proficient-blue?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?style=flat-square&logo=typescript)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-Expert-green?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-blue?style=flat-square&logo=postgresql)
+
+### DevOps & Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black?style=flat-square&logo=github-actions)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square&logo=terraform)
+![Linux](https://img.shields.io/badge/Linux-Power%20User-black?style=flat-square&logo=linux)
+
+### Productivity & Content Management
+![Notion](https://img.shields.io/badge/Notion-Content%20Management-black?style=flat-square&logo=notion)
+![Twos](https://img.shields.io/badge/Twos-Task%20Management-green?style=flat-square&logo=todoist)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-blue?style=flat-square&logo=markdown)
+
+</div>
+
+---
+
+## 💼 Professional Experience & Expertise
+
+### 🏆 Core Competencies
+- **🏢 Cloud Solutions Architecture**: Designing scalable, cost-effective cloud infrastructures
+- **💻 Full-Stack Development**: End-to-end application development and deployment
+- **🔄 DevOps & CI/CD**: Automated deployment pipelines and infrastructure management
+- **📈 Technical Consulting**: Business analysis and technology solution design
+- **🌐 System Administration**: Multi-platform environment management (Windows/Linux/macOS)
+
+### 📱 Specialized Areas
+- **Serverless Architecture**: Lambda, Azure Functions, edge computing
+- **Container Orchestration**: Docker, Kubernetes, microservices design
+- **Frontend Frameworks**: Vue.js, React, Angular with modern build tools
+- **Backend Development**: Node.js, ASP.NET, Express.js, serverless APIs
+- **Database Management**: SQL Server, PostgreSQL, NoSQL solutions
+- **Performance Optimization**: System tuning, monitoring, and scalability
+
+### 📄 Professional Documents
+
+<details>
+<summary><strong>📝 Resume & Technical Documentation</strong></summary>
+
+#### 📆 Current Resume (2025)
+[![Download Resume](https://img.shields.io/badge/Download-Resume%202025-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Resume_2025-en-US-v2.pdf)
+
+**Highlights**:
+- AWS Solutions Architect Certified
+- 10+ years IT experience, 4.5 years cloud specialization
+- Full-stack development expertise
+- Proven track record in technical consulting
+
+#### 📊 System Analysis Report (AIDA64)
+[![View Report](https://img.shields.io/badge/View-System%20Analysis-blue?style=for-the-badge&logo=chart-dot-js&logoColor=white)](./desktop-aida-report.htm)
+
+**System Performance Metrics**:
+- Comprehensive hardware profiling
+- Performance benchmarking results
+- Optimization recommendations
+- Technical specifications documentation
+
+</details>
+
+---
+
+## 🕰️ Development Environment
+
+<details>
+<summary><strong>🏠 Home Workstation Setup</strong></summary>
+
+### 💪 Desktop Powerhouse
+- **Motherboard**: ASUS B550-M WIFI II
+- **CPU**: AMD Ryzen 5 5600X (6-core, 4.2GHz)
+- **RAM**: 32GB DDR4 (2x16GB)
+- **GPU**: NVIDIA GeForce RTX 3060
+- **Storage**: Kingston NVMe SSD 1TB
+
+### 💻 Mobile Development
+- **Laptop**: Lenovo ThinkPad T450
+- **Devices**: Google Pixel 9 Pro, iPad 11, Lenovo M11
+
+### 🎵 Creative Setup
+- **Audio**: Bose Solo 5 Soundbar, Apple AirPods 4
+- **DJ Equipment**: Pioneer XDJ-RZ + rekordbox v6.8.4
+- **Music Production**: Akai APC-25 + Ableton Live 12
+
+</details>
+
+<details>
+<summary><strong>🐧 Operating Systems & Optimization</strong></summary>
+
+### Windows Performance Builds
+- [**LastOS**](https://www.lastos.org/) - Ultimate performance optimization
+- [**AtlasOS**](https://atlasos.net/) - Gaming-focused Windows
+- [**ReviOS**](https://www.revi.cc/) - Privacy-enhanced Windows
+
+### Linux Development Environment
+- [**Garuda Linux**](https://garudalinux.org/) - Beautiful Arch-based gaming distro
+- [**EndeavourOS**](https://endeavouros.com/) - User-friendly Arch Linux
+- [**Manjaro**](https://manjaro.org/) - Stable rolling release
+
+### Container & Self-Hosting
+- **Docker Ecosystem**: [LinuxServer.io](https://linuxserver.io), [Hotio.dev](https://hotio.dev)
+- **NAS Solutions**: [OpenMediaVault](https://www.openmediavault.org/)
+- **Personal Cloud**: [umbrelOS](https://umbrel.com/)
+
+> 💡 **Pro Tip**: Find your perfect Linux distro at [DistroSea](https://distrosea.com/) or use [Distrochooser](https://distrochooser.de/) for recommendations!
+
+</details>
+
+--- 
 
 
-# More Linkz ❤️❤️❤️
-HINT:
-⛈️ = [Raindrop.io Bookmark Collection](https://raindrop.io%20)HINT:
+## 🔗 Awesome Resources & Links
 
-- **Awesomness²**
-    - **[Ranked Awesomness GitHub Pages](https://awesomerank.g
-    - ithub.io/)**
-    - **[Search/Track All Awesome Lists](https://www.trackawesomelist.com)** 
-- Pirates ahoi☠️!
-    - [FREEMEDIAHECKYEAH](https://fmhy.net/)
-    - [Illegal Services Link Collection/Extension](https://github.com/BUZZARDGTA/IS.Bookmarks)
-        - [Firefox/Floorp/FireDragon](https://addons.mozilla.org/de/firefox/addon/illegal-services/)
-        - [Chrome/Arc/SRWare Iron/Flow Browser/Min Browser](https://chrome-stats.com/d/dkddkjnnbeohinbbcfdklcehcmgpdofi/download)
-        - [Opera/GX/Crypto/Next](https://addons.opera.com/de/extensions/details/illegal-services-bookmarks/)
-    - [⛈️BROWSR-MTHRFCKR](https://raindrop.io/whoisdsmith/browsr-mthrfckr-38657056/) by [⛈️whoisdsmith](https://https://raindrop.io/whoisdsmith)
+### 🎆 Development Resources
+- [**Awesome Lists Hub**](https://awesomerank.github.io/) - Ranked awesome GitHub collections
+- [**Track Awesome Lists**](https://www.trackawesomelist.com) - Stay updated with awesome projects
+- [**Self-Hosting Guide**](https://awesome-selfhosted.net/) - Complete self-hosting resources
 
-## More awesome stuff from your's truely **CloudCrusader**
+### 📚 My Curated Collections
+- 📁 [**My Bookmark Collections**](https://raindrop.io/cloudcrusader) - Curated tech resources
+- 🎧 [**BROWSR-MTHRFCKR**](https://raindrop.io/whoisdsmith/browsr-mthrfckr-38657056/) - Ultimate browser resources
 
-- [My Portfolio / Homepage](https://markuswagner.cloud) Powered by [Notion Mania](https://www.notion.so/markuswagner93/392209e436a8410daa4b2e267537a027?v=2461de7d69f54b1e9e633cc7ac7b1301&pvs=13)
-- **[⛈️cloudcrusader](https://raindrop.io/cloudcrusader)**
-- [Escalation Expert @mixcloud](https://www.mixcloud.com/diox_dj/) 
-- [Escalation Expert @soundcloud](https://soundcloud.com/escalation-expert) 
- 
+---
 
-<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fdiox_dj%2F" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;" ></iframe>
+## 🎵 Music & Creative Projects
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1634789388&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/escalation-expert" title="Escalation Expert" target="_blank" style="color: #cccccc; text-decoration: none;">Escalation Expert</a> · <a href="https://soundcloud.com/escalation-expert/escalation-expert-come-alive-october-2023-electro-techno-psy-harder-stylez-free-dl" title="Escalation Expert - Come Alive (October 2023) - Electro Techno, Psy &amp; Harder Stylez - FREE DL" target="_blank" style="color: #cccccc; text-decoration: none;">Escalation Expert - Come Alive (October 2023) - Electro Techno, Psy &amp; Harder Stylez - FREE DL</a></div>
+### 🔊 DJ & Music Production
+I also create electronic music under the alias **"Escalation Expert"**:
+
+- 🎶 [**Mixcloud**](https://www.mixcloud.com/diox_dj/) - DJ mixes and sets
+- 🎧 [**SoundCloud**](https://soundcloud.com/escalation-expert) - Original productions
+
+<details>
+<summary><strong>🎵 Latest Mix - "Come Alive" (October 2023)</strong></summary>
+
+**Genre**: Electro Techno, Psy & Harder Styles  
+**Download**: Free on SoundCloud
+
+<iframe width="100%" height="120" src="https://player-widget.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fdiox_dj%2F" frameborder="0" allow="encrypted-media; fullscreen; autoplay; idle-detection; speaker-selection; web-share;"></iframe>
+
+</details>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 📧 Get In Touch
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-markuswagner.dev-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://markuswagner.cloud)
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-jobsearch%40markuswagner.cloud-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobsearch@markuswagner.cloud?subject=I%20might%20have%20an%20interesting%20position%20for%20you%20%3A&body=I%20am%20very%20pleased%20to%20hear%20from%20you!%20Don't%20hesitate%20to%20ask%20me%20anything!)
+
+### 📊 GitHub Stats
+
+![CloudDevCrusader's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudDevCrusader&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudDevCrusader&layout=compact&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting! ✨
+
+**Ready to build something amazing together?**  
+**Let's turn ideas into reality! 🚀**
+
+*— Markus Wagner / CloudDevCrusader*
+
+</div>
