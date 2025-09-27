@@ -1,6 +1,8 @@
+// noinspection JSDeprecatedSymbols
+
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, deNavbar } from "./navbar/index.js";
-import { enSidebar, deSidebar } from "./sidebar/index.js";
+import { enNavbar, deNavbar } from "./navbar";
+import { enSidebar, deSidebar } from "./sidebar";
 
 export default hopeTheme({
   hostname: "https://markuswagner.cloud",
@@ -116,7 +118,7 @@ export default hopeTheme({
     // },
 
     // Disable features you don’t want here
-    mdEnhance: {
+    "mdEnhance": {
       align: true,
       attrs: true,
       chart: true,
