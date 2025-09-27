@@ -1,7 +1,7 @@
 ---
-title: 幻灯片页
+title: Präsentations-Seite
 icon: slides
-layout: Slide
+layout: Layout
 ---
 
 <!-- markdownlint-disable MD024 MD033 MD051 -->
@@ -10,15 +10,15 @@ layout: Slide
 
 <!-- .slide: data-transition="slide" -->
 
-## 幻灯片演示
+## Präsentations-Demo
 
 <!-- .element: class="r-fit-text" -->
 
-一个简单的幻灯片演示与各种小贴士。
+Eine einfache Präsentations-Demo mit verschiedenen Tipps.
 
 <!-- .element: class="r-fit-text" -->
 
-> 作者 Mr.Hope. 请滚动鼠标滚轮进入下一页
+> Von CloudDevCrusader. Bitte scrollen Sie mit der Maus zur nächsten Seite
 
 ---
 
