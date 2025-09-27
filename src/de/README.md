@@ -1,12 +1,12 @@
 ---
 home: true
-layout: BlogHome
+layout: Blog
 icon: home
-title: 博客主页
+title: Startseite
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: Markus Wagners Homepage
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: Willkommen auf meiner Seite! Genießen Sie meine Welt der Entwicklung, Technologie & Musik.
 projects:
   - icon: project
     name: 项目名称
